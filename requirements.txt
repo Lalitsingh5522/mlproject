@@ -1,5 +1,13 @@
-numpy
 pandas
-matplotlib
-sklearn
+numpy
 seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+
+#-e .
+
+
+# use command to pip3 install -r requirements.txt install
